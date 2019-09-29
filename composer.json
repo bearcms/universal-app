@@ -1,0 +1,22 @@
+{
+    "name": "bearcms/universal-app",
+    "description": "Bear CMS Universal Skeleton application",
+    "keywords": [
+        "Bear CMS Universal",
+        "skeleton application"
+    ],
+    "homepage": "https://bearcms.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bear CMS",
+            "email": "support@bearcms.com",
+            "homepage": "https://bearcms.com/"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "ext-curl": "*",
+        "bearcms/universal": "1.*"
+    }
+}
